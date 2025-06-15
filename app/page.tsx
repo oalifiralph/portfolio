@@ -248,7 +248,7 @@ export default function Home() {
                 </span>
               </a>
               <a
-                href="https://github.com/AugustoPerin"
+                href="https://github.com/oalifiralph"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors group"
@@ -263,7 +263,7 @@ export default function Home() {
               </a>
               <div className="flex items-center gap-2 text-slate-700 dark:text-slate-300">
                 <MapPin size={20} className="text-blue-500" />
-                <span>Salvador, Bahia, Brazil</span>
+                <span>Campos dos Goytacazes, Rio de Janeiro, Brazil</span>
               </div>
             </motion.div>
           </div>
