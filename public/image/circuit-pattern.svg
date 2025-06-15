@@ -1,0 +1,46 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+<path d="M1440 0H0V900H1440V0Z" fill="none"/>
+
+<g opacity="0.5">
+  <path d="M0 450H1440" stroke="white" stroke-width="0.5" stroke-dasharray="8 8"/>
+  <path d="M720 0V900" stroke="white" stroke-width="0.5" stroke-dasharray="8 8"/>
+  
+  <!-- Circuit elements -->
+  <circle cx="200" cy="200" r="5" fill="white"/>
+  <circle cx="400" cy="300" r="5" fill="white"/>
+  <circle cx="600" cy="200" r="5" fill="white"/>
+  <circle cx="800" cy="400" r="5" fill="white"/>
+  <circle cx="1000" cy="300" r="5" fill="white"/>
+  <circle cx="1200" cy="500" r="5" fill="white"/>
+  <circle cx="300" cy="600" r="5" fill="white"/>
+  <circle cx="500" cy="700" r="5" fill="white"/>
+  <circle cx="700" cy="600" r="5" fill="white"/>
+  <circle cx="900" cy="700" r="5" fill="white"/>
+  <circle cx="1100" cy="600" r="5" fill="white"/>
+  
+  <!-- Connection lines -->
+  <path d="M200 200L400 300L600 200L800 400L1000 300L1200 500" stroke="white" stroke-width="0.5"/>
+  <path d="M300 600L500 700L700 600L900 700L1100 600" stroke="white" stroke-width="0.5"/>
+  <path d="M600 200L700 600" stroke="white" stroke-width="0.5" stroke-dasharray="4 4"/>
+  <path d="M800 400L900 700" stroke="white" stroke-width="0.5" stroke-dasharray="4 4"/>
+  <path d="M400 300L300 600" stroke="white" stroke-width="0.5" stroke-dasharray="4 4"/>
+  <path d="M1000 300L1100 600" stroke="white" stroke-width="0.5" stroke-dasharray="4 4"/>
+  
+  <!-- Small circuit patterns -->
+  <rect x="250" y="250" width="30" height="30" stroke="white" stroke-width="0.5" fill="none"/>
+  <rect x="850" y="450" width="30" height="30" stroke="white" stroke-width="0.5" fill="none"/>
+  <rect x="550" y="650" width="30" height="30" stroke="white" stroke-width="0.5" fill="none"/>
+  <rect x="1150" y="550" width="30" height="30" stroke="white" stroke-width="0.5" fill="none"/>
+  
+  <!-- Circuit board traces -->
+  <path d="M100 100H300V400H500V600H700V800H900" stroke="white" stroke-width="0.5" fill="none"/>
+  <path d="M1300 100H1100V400H900V600H700V800H500" stroke="white" stroke-width="0.5" fill="none"/>
+</g>
+</svg>
