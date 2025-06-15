@@ -1,4 +1,4 @@
-# Augusto Perin - Portfolio Website
+# Alifi Ralph - Portfolio Website
 
 ![Portfolio Preview](docs/preview.png)
 
@@ -6,7 +6,7 @@ A modern, animated, tech-inspired portfolio website built with Next.js and Frame
 
 ## 📋 Description
 
-This project is a personal portfolio website for Augusto Perin, an AWS Cloud Engineer and Solutions Architect. The website showcases professional experience, skills, certifications, and contact information in a visually engaging format with modern animations and a tech-inspired aesthetic.
+This project is a personal portfolio website for Alifi Ralph, an AWS Cloud Engineer and Solutions Architect. The website showcases professional experience, skills, certifications, and contact information in a visually engaging format with modern animations and a tech-inspired aesthetic.
 
 The portfolio is designed to be:
 - Fully responsive across all device sizes
@@ -17,7 +17,7 @@ The portfolio is designed to be:
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at: [https://augustoperin.vercel.app/](https://augustoperin.vercel.app/)
+Visit the live portfolio at: [https://alifiralph.vercel.app/](https://augustoperin.vercel.app/)
 
 ## ✨ Features
 
@@ -50,5 +50,5 @@ Visit the live portfolio at: [https://augustoperin.vercel.app/](https://augustop
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AugustoPerin/portfolio.git
+   git clone https://github.com/oalifiralph/portfolio.git
    cd portfolio
