@@ -7,9 +7,9 @@ import { LanguageProvider } from "@/contexts/language-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Augusto Perin | AWS Cloud Engineer & Solutions Architect",
+  title: "Álifi Ralph | AWS Cloud Engineer & Solutions Architect",
   description:
-    "Portfolio of Augusto de Oliveira Perin, AWS Certified Solutions Architect Professional with expertise in cloud engineering and data solutions.",
+    "Portfolio of Álifi Ralph, AWS Certified Solutions Architect Associate with expertise in cloud engineering and data solutions.",
   generator: "v0.dev",
   icons: {
     icon: "/favicon.png",
