@@ -234,7 +234,7 @@ export default function Home() {
               className="flex flex-wrap gap-4 mt-8"
             >
               <a
-                href="https://linkedin.com/in/augustoperin"
+                href="https://linkedin.com/in/oalifiralph"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors group"
@@ -759,7 +759,7 @@ export default function Home() {
                 {
                   icon: <Phone className="h-6 w-6 text-white" />,
                   title: t("contact.phone"),
-                  content: "+55 71 99991-7174",
+                  content: "+55 22 99991-7174",
                   isLink: false,
                 },
                 {
