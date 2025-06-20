@@ -117,7 +117,7 @@ export default function Home() {
             transition={{ delay: 0.2, duration: 0.5 }}
             className="font-bold text-xl text-slate-800 dark:text-white"
           >
-            Augusto Perin
+            Álifi Ralph
           </motion.div>
           <nav className="hidden md:flex space-x-6">
             {[
@@ -838,7 +838,7 @@ export default function Home() {
       >
         <div className="container mx-auto px-4">
           <p>
-            © {new Date().getFullYear()} Augusto de Oliveira Perin. {t("footer.rights")}
+            © {new Date().getFullYear()} Álifi Ralph. {t("footer.rights")}
           </p>
         </div>
       </motion.footer>
