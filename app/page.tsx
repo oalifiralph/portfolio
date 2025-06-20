@@ -199,7 +199,7 @@ export default function Home() {
             className="flex justify-center"
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white/20">
-              <Image src="/images/profile-.jpg" alt="Álifi Ralph" fill className="object-cover" />
+              <Image src="/images/profile.jpg" alt="Álifi Ralph" fill className="object-cover" />
               <motion.div
                 initial={{ opacity: 0 }}
                 animate={{ opacity: [0, 0.5, 0] }}
