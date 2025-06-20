@@ -158,7 +158,7 @@ export default function Home() {
           <div>
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
               <Badge className="mb-4 bg-blue-600 hover:bg-blue-700">
-                AWS Certified Solutions Architect Professional
+                AWS Certified Solutions Architect Associate 
               </Badge>
             </motion.div>
             <AnimatedText text={t("hero.title")} className="text-4xl md:text-5xl font-bold mb-4" />
@@ -555,16 +555,16 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             {[
               {
-                image: "/images/aws-solutions-architect.png",
-                title: "AWS Certified Solutions Architect Professional",
-                expiry: "Expires April 2, 2028",
+                image: "/images/aws-certified.png",
+                title: "AWS Certified Solutions Architect Associate",
+                expiry: "Expires April 30, 2028",
                 borderColor: "border-orange-100 dark:border-orange-900",
                 hoverColor: "hover:border-orange-200 dark:hover:border-orange-800",
               },
               {
                 image: "/images/aws-cloud-practitioner.png",
                 title: "AWS Certified Cloud Practitioner",
-                expiry: "Expires April 2, 2028",
+                expiry: "Expires April 30, 2028",
                 borderColor: "border-blue-100 dark:border-blue-900",
                 hoverColor: "hover:border-blue-200 dark:hover:border-blue-800",
               },
@@ -626,9 +626,8 @@ export default function Home() {
             </h3>
             <ul className="space-y-3">
               {[
-                "IBM AI Engineering Professional Certificate (V2) – IBM",
-                "Data Science Professional Certificate (V2) – IBM",
-                "Machine Learning Engineering for Production (MLOps) – DeepLearning.AI",
+                "ITIL 4 Foundation Certificate – Agile Unify",
+                "Lei Geral de Proteção de Dados (LGPD) – Sest Senat",
               ].map((item, index) => (
                 <motion.li
                   key={index}
@@ -655,17 +654,12 @@ export default function Home() {
           <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
             {[
               {
-                period: "July 2024 - July 2026 (Studying)",
-                title: "Master in Computer Science",
-                subtitle: "Data Science Research Topic",
-                institution: "UFBA (Federal University of Bahia)",
-              },
-              {
-                period: "January 2020 - June 2024 (Completed)",
-                title: "Degree in Computer Engineering",
+                period: "August 2024 - August 2028 (Studying)",
+                title: "Software Engineering",
                 subtitle: "",
-                institution: "UNIFACS (Salvador University)",
+                institution: "UNICSUL (University Cruzeiro do Sul)",
               },
+
             ].map((edu, index) => (
               <AnimatedCard key={index} delay={0.2 * index} direction={index % 2 === 0 ? "left" : "right"}>
                 <Card className="border border-slate-200 dark:border-slate-700 bg-white/70 dark:bg-slate-800/70 backdrop-blur-sm hover:shadow-lg transition-all duration-300">
@@ -765,33 +759,33 @@ export default function Home() {
                 {
                   icon: <Phone className="h-6 w-6 text-white" />,
                   title: t("contact.phone"),
-                  content: "+55 71 98155-7226",
+                  content: "+55 71 99991-7174",
                   isLink: false,
                 },
                 {
                   icon: <Mail className="h-6 w-6 text-white" />,
                   title: t("contact.email"),
-                  content: "augustooperin@gmail.com",
+                  content: "contatoalifiralph@gmail.com",
                   isLink: false,
                 },
                 {
                   icon: <MapPin className="h-6 w-6 text-white" />,
                   title: t("contact.location"),
-                  content: "Salvador, Bahia, Brazil",
+                  content: "Campos dos Goytacazes, Rio de Janeiro, Brazil",
                   isLink: false,
                 },
                 {
                   icon: <Linkedin className="h-6 w-6 text-white" />,
                   title: "LinkedIn",
-                  content: "linkedin.com/in/augustoperin",
-                  href: "https://linkedin.com/in/augustoperin",
+                  content: "linkedin.com/in/oalifiralph",
+                  href: "https://linkedin.com/in/oalifiralph",
                   isLink: true,
                 },
                 {
                   icon: <Github className="h-6 w-6 text-white" />,
                   title: "GitHub",
-                  content: "github.com/AugustoPerin",
-                  href: "https://github.com/AugustoPerin",
+                  content: "github.com/oalifiralph",
+                  href: "https://github.com/oalifiralph",
                   isLink: true,
                   colSpan: true,
                 },
