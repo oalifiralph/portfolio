@@ -40,7 +40,7 @@ const translations = {
     // About section
     "about.title": "About Me",
     "about.p1":
-      "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing..p2":
+      "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing.p2":
       "My expertise includes infrastructure automation, containerization with Kubernetes, and implementing data processing pipelines using AWS services like Glue, Athena, and S3.",
 
     // Experience section
@@ -110,17 +110,16 @@ const translations = {
     "nav.contact": "Contacto",
 
     // Hero section
-    "hero.title": "Augusto de Oliveira Perin",
-    "hero.subtitle": "Ingeniero de Nube AWS, Especialista en Datos, Arquitecto de Soluciones",
-    "hero.experience": "Más de 4 años de experiencia en AWS y soluciones basadas en datos.",
+    "hero.title": "Álifi Ralph Dias Faria",
+    "hero.subtitle": "Ingeniero de Nube AWS, Arquitecto de Soluciones",
+    "hero.experience": "Más de 1 año de experiencia en soluciones AWS.",
     "hero.cta.contact": "Contactar",
     "hero.cta.experience": "Ver Experiencia",
 
     // About section
     "about.title": "Sobre Mí",
     "about.p1":
-      "Soy un Ingeniero de Nube AWS y Arquitecto de Soluciones con más de 4 años de experiencia diseñando e implementando soluciones en la nube escalables, seguras y rentables. Me especializo en arquitectura AWS, prácticas DevOps y soluciones basadas en datos.",
-    "about.p2":
+      "Soy arquitecto de soluciones en la nube centrado en AWS y DevOps, y me dedico a diseñar arquitecturas escalables, seguras y rentables. Ayudo a transformar empresas mediante soluciones en la nube y de automatización. Actualmente, en plena transición profesional, combino el aprendizaje práctico con la resolución de problemas reales en la computación en la nube.p2":
       "Mi experiencia incluye automatización de infraestructura, contenedorización con Kubernetes e implementación de canales de procesamiento de datos utilizando servicios AWS como Glue, Athena y S3.",
 
     // Experience section
@@ -193,16 +192,16 @@ const translations = {
     "nav.contact": "Contato",
 
     // Hero section
-    "hero.title": "Augusto de Oliveira Perin",
-    "hero.subtitle": "Engenheiro de Nuvem AWS, Especialista em Dados, Arquiteto de Soluções",
-    "hero.experience": "Mais de 4 anos de experiência em AWS e soluções orientadas a dados.",
+    "hero.title": "Álifi Ralph Dias Faria",
+    "hero.subtitle": "Engenheiro de Nuvem AWS, Arquiteto de Soluções",
+    "hero.experience": "Mais de 1 ano de experiência em soluções AWS.",
     "hero.cta.contact": "Entre em Contato",
     "hero.cta.experience": "Ver Experiência",
 
     // About section
     "about.title": "Sobre Mim",
     "about.p1":
-      "Sou um Engenheiro de Nuvem AWS e Arquiteto de Soluções com mais de 4 anos de experiência projetando e implementando soluções em nuvem escaláveis, seguras e econômicas. Sou especializado em arquitetura AWS, práticas DevOps e soluções orientadas a dados.",
+      "Sou Arquiteto de Soluções Cloud, com foco em AWS e práticas DevOps, focado em criar arquiteturas escaláveis, seguras e de baixo custo. Ajudo empresas a se transformarem através da nuvem e da automação. Atualmente estou em transição de carreira, unindo aprendizado prático com a resolução de problemas reais na computação em nuvem.",
     "about.p2":
       "Minha expertise inclui automação de infraestrutura, conteinerização com Kubernetes e implementação de pipelines de processamento de dados usando serviços AWS como Glue, Athena e S3.",
 
