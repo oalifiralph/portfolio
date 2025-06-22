@@ -40,7 +40,8 @@ const translations = {
     // About section
     "about.title": "About Me",
     "about.p1":
-      "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing.p2":
+      "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing.",
+     "about.p2":
       "My expertise includes infrastructure automation, containerization with Kubernetes, and implementing data processing pipelines using AWS services like Glue, Athena, and S3.",
 
     // Experience section
@@ -119,7 +120,8 @@ const translations = {
     // About section
     "about.title": "Sobre Mí",
     "about.p1":
-      "Soy arquitecto de soluciones en la nube centrado en AWS y DevOps, y me dedico a diseñar arquitecturas escalables, seguras y rentables. Ayudo a transformar empresas mediante soluciones en la nube y de automatización. Actualmente, en plena transición profesional, combino el aprendizaje práctico con la resolución de problemas reales en la computación en la nube.p2":
+      "Soy arquitecto de soluciones en la nube centrado en AWS y DevOps, y me dedico a diseñar arquitecturas escalables, seguras y rentables. Ayudo a transformar empresas mediante soluciones en la nube y de automatización. Actualmente, en plena transición profesional, combino el aprendizaje práctico con la resolución de problemas reales en la computación en la nube.":
+       "about.p2":
       "Mi experiencia incluye automatización de infraestructura, contenedorización con Kubernetes e implementación de canales de procesamiento de datos utilizando servicios AWS como Glue, Athena y S3.",
 
     // Experience section
