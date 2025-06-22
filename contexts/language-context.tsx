@@ -33,7 +33,7 @@ const translations = {
     // Hero section
     "hero.title": "Álifi Ralph Dias Faria",
     "hero.subtitle": "AWS Cloud Engineer, Solutions Architect",
-    "hero.experience": "1+ years of experience in solutions AWS.",
+    "hero.experience": "1+ year of experience in solutions AWS.",
     "hero.cta.contact": "Get in Touch",
     "hero.cta.experience": "View Experience",
 
