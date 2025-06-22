@@ -31,17 +31,16 @@ const translations = {
     "nav.contact": "Contact",
 
     // Hero section
-    "hero.title": "Augusto de Oliveira Perin",
-    "hero.subtitle": "AWS Cloud Engineer, Data Specialist, Solutions Architect",
-    "hero.experience": "4+ years of experience in AWS and data-driven solutions.",
+    "hero.title": "Álifi Ralph Dias Faria",
+    "hero.subtitle": "AWS Cloud Engineer, Solutions Architect",
+    "hero.experience": "1+ years of experience in solutions AWS.",
     "hero.cta.contact": "Get in Touch",
     "hero.cta.experience": "View Experience",
 
     // About section
     "about.title": "About Me",
     "about.p1":
-      "I'm an AWS Cloud Engineer and Solutions Architect with over 4 years of experience designing and implementing scalable, secure, and cost-effective cloud solutions. I specialize in AWS architecture, DevOps practices, and data-driven solutions.",
-    "about.p2":
+      "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing..p2":
       "My expertise includes infrastructure automation, containerization with Kubernetes, and implementing data processing pipelines using AWS services like Glue, Athena, and S3.",
 
     // Experience section
