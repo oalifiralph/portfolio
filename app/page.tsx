@@ -199,7 +199,7 @@ export default function Home() {
             className="flex justify-center"
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white/20">
-              <Image src="/images/profile-.jpg" alt="Álifi Ralph" fill className="object-cover" />
+              <Image src="/image/profile-.jpg" alt="Álifi Ralph" fill className="object-cover" />
               <motion.div
                 initial={{ opacity: 0 }}
                 animate={{ opacity: [0, 0.5, 0] }}
@@ -555,21 +555,21 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             {[
               {
-                image: "/images/aws-certified.png",
+                image: "/image/aws-certified.png",
                 title: "AWS Certified Solutions Architect Associate",
                 expiry: "Expires April 30, 2028",
                 borderColor: "border-orange-100 dark:border-orange-900",
                 hoverColor: "hover:border-orange-200 dark:hover:border-orange-800",
               },
               {
-                image: "/images/aws-cloud-practitioner.png",
+                image: "/image/aws-cloud-practitioner.png",
                 title: "AWS Certified Cloud Practitioner",
                 expiry: "Expires April 30, 2028",
                 borderColor: "border-blue-100 dark:border-blue-900",
                 hoverColor: "hover:border-blue-200 dark:hover:border-blue-800",
               },
               {
-                image: "/images/tensorflow-developer.png",
+                image: "/image/tensorflow-developer.png",
                 title: "TensorFlow Developer Certificate",
                 expiry: "Expires May 15, 2027",
                 borderColor: "border-green-100 dark:border-green-900",
