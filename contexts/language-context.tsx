@@ -51,7 +51,7 @@ const translations = {
     "experience.vxcase.p1": "Projects focused on infrastructure as code solutions, automation, and architecture on AWS.",
     "experience.vxcase.p2": "Built secure and scalable infrastructures.",
     "experience.vxcase.p3": "Monitoring with CloudWatch and alert automation using SNS and Lambda.",
-    "experience.vxcase.p4": "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives.",
+    "experience.vxcase.p4": "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives."
 
 
 
