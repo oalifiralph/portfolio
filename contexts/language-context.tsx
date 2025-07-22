@@ -123,7 +123,7 @@ const translations = {
     "experience.vxcase.p1": "Proyectos realizados con enfoque en soluciones de infraestructura como código, automatización y arquitectura en AWS.",
     "experience.vxcase.p2": "Creación de infraestructuras seguras y escalables.",
     "experience.vxcase.p3": "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.",
-    "experience.vxcase.p4": "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
+    "experience.vxcase.p4": "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube."
 
   
 
@@ -195,7 +195,7 @@ const translations = {
     "experience.vxcase.p1": "Projetos realizados com foco em soluções de infraestrutura como código, automação e arquitetura na AWS",
     "experience.vxcase.p2": "Criação de infraestruturas seguras e escaláveis",
     "experience.vxcase.p3": "Monitoramento com CloudWatch e automação de alertas com SNS e Lambda",
-    "experience.vxcase.p4": "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem.",
+    "experience.vxcase.p4": "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem."
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
