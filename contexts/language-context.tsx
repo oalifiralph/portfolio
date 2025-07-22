@@ -53,8 +53,6 @@ const translations = {
     "experience.vxcase.p3": "Monitoring with CloudWatch and alert automation using SNS and Lambda.",
     "experience.vxcase.p4": "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives."
 
-
-
     // Skills section
     "skills.title": "Technical Skills",
     "skills.aws": "AWS Services",
