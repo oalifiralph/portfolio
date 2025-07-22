@@ -47,21 +47,14 @@ const translations = {
     // Experience section
     "experience.title": "Professional Experience",
     "experience.vxcase.title": "AWS Cloud and DevOps Engineer",
-    "experience.vxcase.company": "VX Case",
-    "experience.vxcase.p1": "Led the migration of company infrastructure to AWS EKS (Elastic Kubernetes Service).",
-    "experience.vxcase.p2": "Achieved 91% reduction in data storage costs through implementation of AWS S3 and Athena.",
+    "experience.vxcase.company": " Freelancer",
+    "experience.vxcase.p1": "Projects focused on infrastructure as code solutions, automation, and architecture on AWS.",
+    "experience.vxcase.p2": "Built secure and scalable infrastructures.",
     "experience.vxcase.p3":
-      "Led migration of 1 TB daily data using AWS Glue with Spark backend for automated data processing pipelines.",
-    "experience.vxcase.p4":
+      "Monitoring with CloudWatch and alert automation using SNS and Lambda.p4":
       "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives.",
 
-    "experience.ru.title": "Junior Solutions Architect",
-    "experience.ru.company": "RU Contabilidade",
-    "experience.ru.p1": "Implemented Python scripts to automate repetitive tasks, increasing operational efficiency.",
-    "experience.ru.p2":
-      "Achieved 94% reduction in processing time by automating Excel spreadsheet tasks (from 3 hours to 10 minutes daily).",
-    "experience.ru.p3":
-      "Managed SQL queries to extract and manipulate data from MySQL database, ensuring data integrity.",
+
 
     // Skills section
     "skills.title": "Technical Skills",
@@ -113,7 +106,7 @@ const translations = {
     // Hero section
     "hero.title": "Álifi Ralph Dias Faria",
     "hero.subtitle": "Ingeniero de Nube AWS, Arquitecto de Soluciones",
-    "hero.experience": "Más de 1 año de experiencia en soluciones AWS.",
+    "hero.experience": "+1 año de experiencia en soluciones AWS.",
     "hero.cta.contact": "Contactar",
     "hero.cta.experience": "Ver Experiencia",
 
@@ -127,30 +120,22 @@ const translations = {
     // Experience section
     "experience.title": "Experiencia Profesional",
     "experience.vxcase.title": "Ingeniero de Nube AWS y DevOps",
-    "experience.vxcase.company": "VX Case",
+    "experience.vxcase.company": "Freelancer",
     "experience.vxcase.p1":
-      "Dirigí la migración de la infraestructura de la empresa a AWS EKS (Elastic Kubernetes Service).",
+      "Proyectos realizados con enfoque en soluciones de infraestructura como código, automatización y arquitectura en AWS.",
     "experience.vxcase.p2":
-      "Logré una reducción del 91% en los costos de almacenamiento de datos mediante la implementación de AWS S3 y Athena.",
+      "Creación de infraestructuras seguras y escalables.",
     "experience.vxcase.p3":
-      "Dirigí la migración de 1 TB de datos diarios utilizando AWS Glue con backend Spark para canales automatizados de procesamiento de datos.",
-    "experience.vxcase.p4":
+      "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.p4":
       "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
 
-    "experience.ru.title": "Arquitecto de Soluciones Junior",
-    "experience.ru.company": "RU Contabilidade",
-    "experience.ru.p1":
-      "Implementé scripts de Python para automatizar tareas repetitivas, aumentando la eficiencia operativa.",
-    "experience.ru.p2":
-      "Logré una reducción del 94% en el tiempo de procesamiento al automatizar tareas de hojas de cálculo Excel (de 3 horas a 10 minutos diarios).",
-    "experience.ru.p3":
-      "Gestioné consultas SQL para extraer y manipular datos de la base de datos MySQL, garantizando la integridad de los datos.",
+  
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
     "skills.aws": "Servicios AWS",
     "skills.cloud": "Nube y DevOps",
-    "skills.data": "Ciencia de Datos",
+    "skills.data": "Ingeniería de Software",
     "skills.other": "Otras Habilidades",
 
     // Certifications section
@@ -196,7 +181,7 @@ const translations = {
     // Hero section
     "hero.title": "Álifi Ralph Dias Faria",
     "hero.subtitle": "Engenheiro de Nuvem AWS, Arquiteto de Soluções",
-    "hero.experience": "Mais de 1 ano de experiência em soluções AWS.",
+    "hero.experience": "1+ ano de experiência em soluções AWS.",
     "hero.cta.contact": "Entre em Contato",
     "hero.cta.experience": "Ver Experiência",
 
