@@ -209,25 +209,16 @@ const translations = {
 
     // Experience section
     "experience.title": "Experiência Profissional",
-    "experience.vxcase.title": "Engenheiro de Nuvem AWS e DevOps",
-    "experience.vxcase.company": "VX Case",
+    "experience.vxcase.title": "Arquiteto de Soluções Cloud & DevOps",
+    "experience.vxcase.company": "Freelancer",
     "experience.vxcase.p1":
-      "Liderei a migração da infraestrutura da empresa para AWS EKS (Elastic Kubernetes Service).",
+      "Projetos realizados com foco em soluções de infraestrutura como código, automação e arquitetura na AWS",
     "experience.vxcase.p2":
-      "Alcancei redução de 91% nos custos de armazenamento de dados através da implementação de AWS S3 e Athena.",
+      "Criação de infraestruturas seguras e escaláveis",
     "experience.vxcase.p3":
-      "Liderei a migração de 1 TB de dados diários usando AWS Glue com backend Spark para pipelines automatizados de processamento de dados.",
+      "Monitoramento com CloudWatch e automação de alertas com SNS e Lambda",
     "experience.vxcase.p4":
       "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem.",
-
-    "experience.ru.title": "Arquiteto de Soluções Júnior",
-    "experience.ru.company": "RU Contabilidade",
-    "experience.ru.p1":
-      "Implementei scripts Python para automatizar tarefas repetitivas, aumentando a eficiência operacional.",
-    "experience.ru.p2":
-      "Alcancei redução de 94% no tempo de processamento ao automatizar tarefas de planilhas Excel (de 3 horas para 10 minutos diários).",
-    "experience.ru.p3":
-      "Gerenciei consultas SQL para extrair e manipular dados do banco de dados MySQL, garantindo a integridade dos dados.",
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
