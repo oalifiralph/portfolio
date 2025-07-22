@@ -76,7 +76,7 @@ const translations = {
     "languages.english": "English",
     "languages.spanish": "Spanish",
     "languages.native": "Native",
-    "languages.advanced": "Advanced",
+    "languages.advanced": "intermediary",
     "languages.basic": "Basic",
 
     // Contact section
@@ -151,7 +151,7 @@ const translations = {
     "languages.english": "Inglés",
     "languages.spanish": "Español",
     "languages.native": "Nativo",
-    "languages.advanced": "Avanzado",
+    "languages.advanced": "intermediario",
     "languages.basic": "Básico",
 
     // Contact section
@@ -225,7 +225,7 @@ const translations = {
     "languages.english": "Inglês",
     "languages.spanish": "Espanhol",
     "languages.native": "Nativo",
-    "languages.advanced": "Avançado",
+    "languages.advanced": "intermediário",
     "languages.basic": "Básico",
 
     // Contact section
