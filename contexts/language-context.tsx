@@ -50,8 +50,8 @@ const translations = {
     "experience.vxcase.company": " Freelancer",
     "experience.vxcase.p1": "Projects focused on infrastructure as code solutions, automation, and architecture on AWS.",
     "experience.vxcase.p2": "Built secure and scalable infrastructures.",
-    "experience.vxcase.p3": "Monitoring with CloudWatch and alert automation using SNS and Lambda.p4",
-    "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives.",
+    "experience.vxcase.p3": "Monitoring with CloudWatch and alert automation using SNS and Lambda.",
+    "experience.vxcase.p4": "Communicated complex technical concepts to non-technical stakeholders, ensuring alignment of cloud initiatives.",
 
 
 
@@ -120,13 +120,10 @@ const translations = {
     "experience.title": "Experiencia Profesional",
     "experience.vxcase.title": "Ingeniero de Nube AWS y DevOps",
     "experience.vxcase.company": "Freelancer",
-    "experience.vxcase.p1":
-      "Proyectos realizados con enfoque en soluciones de infraestructura como código, automatización y arquitectura en AWS.",
-    "experience.vxcase.p2":
-      "Creación de infraestructuras seguras y escalables.",
-    "experience.vxcase.p3":
-      "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.p4",
-      "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
+    "experience.vxcase.p1": "Proyectos realizados con enfoque en soluciones de infraestructura como código, automatización y arquitectura en AWS.",
+    "experience.vxcase.p2": "Creación de infraestructuras seguras y escalables.",
+    "experience.vxcase.p3": "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.",
+    "experience.vxcase.p4": "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
 
   
 
@@ -195,14 +192,10 @@ const translations = {
     "experience.title": "Experiência Profissional",
     "experience.vxcase.title": "Arquiteto de Soluções Cloud & DevOps",
     "experience.vxcase.company": "Freelancer",
-    "experience.vxcase.p1":
-      "Projetos realizados com foco em soluções de infraestrutura como código, automação e arquitetura na AWS",
-    "experience.vxcase.p2":
-      "Criação de infraestruturas seguras e escaláveis",
-    "experience.vxcase.p3":
-      "Monitoramento com CloudWatch e automação de alertas com SNS e Lambda",
-    "experience.vxcase.p4":
-      "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem.",
+    "experience.vxcase.p1": "Projetos realizados com foco em soluções de infraestrutura como código, automação e arquitetura na AWS",
+    "experience.vxcase.p2": "Criação de infraestruturas seguras e escaláveis",
+    "experience.vxcase.p3": "Monitoramento com CloudWatch e automação de alertas com SNS e Lambda",
+    "experience.vxcase.p4": "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem.",
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
