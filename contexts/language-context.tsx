@@ -125,7 +125,7 @@ const translations = {
     "experience.vxcase.p2":
       "Creación de infraestructuras seguras y escalables.",
     "experience.vxcase.p3":
-      "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.p4":
+      "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.p4",
       "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
 
   
