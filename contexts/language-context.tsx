@@ -41,7 +41,7 @@ const translations = {
     "about.title": "About Me",
     "about.p1":
       "I'm a Cloud Solutions Architect focused on AWS and DevOps, focused about designing scalable, secure, and cost-efficient architectures. I help transform businesses through cloud solutions and automation. Currently transitioning my career, I combine hands-on learning with real-world problem-solving in cloud computing.",
-     "about.p2":
+    "about.p2":
       "My expertise includes infrastructure automation, containerization with Kubernetes, and implementing data processing pipelines using AWS services like Glue, Athena, and S3.",
 
     // Experience section
@@ -121,9 +121,7 @@ const translations = {
     "experience.vxcase.p1": "Proyectos realizados con enfoque en soluciones de infraestructura como código, automatización y arquitectura en AWS.",
     "experience.vxcase.p2": "Creación de infraestructuras seguras y escalables.",
     "experience.vxcase.p3": "Monitoreo con CloudWatch y automatización de alertas con SNS y Lambda.",
-    "experience.vxcase.p4": "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube."
-
-  
+    "experience.vxcase.p4": "Comuniqué conceptos técnicos complejos a partes interesadas no técnicas, asegurando la alineación de iniciativas en la nube.",
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
@@ -193,7 +191,7 @@ const translations = {
     "experience.vxcase.p1": "Projetos realizados com foco em soluções de infraestrutura como código, automação e arquitetura na AWS",
     "experience.vxcase.p2": "Criação de infraestruturas seguras e escaláveis",
     "experience.vxcase.p3": "Monitoramento com CloudWatch e automação de alertas com SNS e Lambda",
-    "experience.vxcase.p4": "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem."
+    "experience.vxcase.p4": "Comuniquei conceitos técnicos complexos para stakeholders não técnicos, garantindo alinhamento das iniciativas de nuvem.",
 
     // Skills section
     "skills.title": "Habilidades Técnicas",
@@ -259,7 +257,11 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     return translations[language][key] || key
   }
 
-  return <LanguageContext.Provider value={{ language, setLanguage, t }}>{children}</LanguageContext.Provider>
+  return (
+    <LanguageContext.Provider value={{ language, setLanguage, t }}>
+      {children}
+    </LanguageContext.Provider>
+  )
 }
 
 // Custom hook to use the language context
