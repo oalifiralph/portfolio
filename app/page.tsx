@@ -292,7 +292,7 @@ export default function Home() {
                 className="absolute -left-3 top-0 w-6 h-6 rounded-full bg-blue-500"
               />
               <div className="mb-2">
-                <Badge className="mb-2">January 2022 - Present</Badge>
+                <Badge className="mb-2">January 2024 - Present</Badge>
                 <motion.h3
                   initial={{ opacity: 0, y: 10 }}
                   whileInView={{ opacity: 1, y: 0 }}
@@ -355,42 +355,6 @@ export default function Home() {
                 viewport={{ once: true }}
                 className="absolute -left-3 top-0 w-6 h-6 rounded-full bg-blue-500"
               />
-              <div className="mb-2">
-                <Badge className="mb-2">January 2021 - December 2021</Badge>
-                <motion.h3
-                  initial={{ opacity: 0, y: 10 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.4, delay: 0.5 }}
-                  viewport={{ once: true }}
-                  className="text-2xl font-bold text-slate-800 dark:text-slate-100"
-                >
-                  {t("experience.ru.title")}
-                </motion.h3>
-                <motion.p
-                  initial={{ opacity: 0, y: 10 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.4, delay: 0.6 }}
-                  viewport={{ once: true }}
-                  className="text-lg text-blue-600 dark:text-blue-400"
-                >
-                  {t("experience.ru.company")}
-                </motion.p>
-              </div>
-              <motion.ul
-                initial={{ opacity: 0 }}
-                whileInView={{ opacity: 1 }}
-                transition={{ duration: 0.6, delay: 0.7, staggerChildren: 0.1 }}
-                viewport={{ once: true }}
-                className="mt-4 space-y-3"
-              >
-                {[t("experience.ru.p1"), t("experience.ru.p2"), t("experience.ru.p3")].map((item, index) => (
-                  <motion.li
-                    key={index}
-                    initial={{ opacity: 0, x: -20 }}
-                    whileInView={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.4, delay: 0.7 + index * 0.1 }}
-                    viewport={{ once: true }}
-                    className="flex gap-2"
                   >
                     <ChevronRight className="flex-shrink-0 h-6 w-6 text-blue-500" />
                     <p className="text-slate-700 dark:text-slate-300">{item}</p>
@@ -567,13 +531,6 @@ export default function Home() {
                 expiry: "Expires April 30, 2028",
                 borderColor: "border-blue-100 dark:border-blue-900",
                 hoverColor: "hover:border-blue-200 dark:hover:border-blue-800",
-              },
-              {
-                image: "/image/tensorflow-developer.png",
-                title: "TensorFlow Developer Certificate",
-                expiry: "Expires May 15, 2027",
-                borderColor: "border-green-100 dark:border-green-900",
-                hoverColor: "hover:border-green-200 dark:hover:border-green-800",
               },
             ].map((cert, index) => (
               <AnimatedCard key={index} delay={0.1 * index} direction="up">
