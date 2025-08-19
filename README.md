@@ -1,6 +1,6 @@
 # Alifi Ralph - Portfolio Website
 
-![Portfolio Preview](docs/preview.png)
+![Portfolio Preview](docs/preview-page.png)
 
 A modern, animated, tech-inspired portfolio website built with Next.js and Framer Motion.
 
@@ -17,7 +17,7 @@ The portfolio is designed to be:
 
 ## 🚀 Live Demo
 
-Visit the live portfolio at: [https://alifiralph.vercel.app/](https://augustoperin.vercel.app/)
+Visit the live portfolio at: [https://alifiralph.vercel.app/](https://portfolio-alifi-ralph.vercel.app/)
 
 ## ✨ Features
 
