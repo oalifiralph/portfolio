@@ -57,7 +57,7 @@ const translations = {
     "skills.title": "Technical Skills",
     "skills.aws": "AWS Services",
     "skills.cloud": "Cloud & DevOps",
-    "skills.data": "Software Engineering",
+    "skills.data": "Software Engenning",
     "skills.other": "Other Skills",
 
     // Certifications section
